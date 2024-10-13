@@ -33,7 +33,7 @@ Whether you're a data scientist, statistician, or researcher, this collection ca
 
 This list is organized to guide readers from beginners encountering research papers for the first time to experienced engineers and researchers refreshing their ideas.
 
-1. Paper#1: ["A Review on Linear Regression Comprehensive in Machine Learning" by Dastan Hussen Maulud & Adnan Mohsin Abdulazeez] explores the latest trends in linear regression within the realms of data processing, statistics, and machine learning over the past five years. This review highlights innovative regression models and synthesizes key insights from recent experimental research, offering a valuable resource for researchers in the field.
+1. Paper#1: [**"A Review on Linear Regression Comprehensive in Machine Learning"** by Dastan Hussen Maulud & Adnan Mohsin Abdulazeez] explores the latest trends in linear regression within the realms of data processing, statistics, and machine learning over the past five years. This review highlights innovative regression models and synthesizes key insights from recent experimental research, offering a valuable resource for researchers in the field.
 
 ## Contributions
 
