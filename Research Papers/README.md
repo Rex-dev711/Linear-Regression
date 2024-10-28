@@ -1,4 +1,4 @@
-### **__Research Papers on Regression Models__**
+## **__Research Papers on Regression Models__**
 
 ---
 
@@ -34,6 +34,10 @@ Whether you're a data scientist, statistician, or researcher, this collection ca
 This list is organized to guide readers from beginners encountering research papers for the first time to experienced engineers and researchers refreshing their ideas.
 
 1. Paper#1: [**"A Review on Linear Regression Comprehensive in Machine Learning"** by Dastan Hussen Maulud & Adnan Mohsin Abdulazeez] explores the latest trends in linear regression within the realms of data processing, statistics, and machine learning over the past five years. This review highlights innovative regression models and synthesizes key insights from recent experimental research, offering a valuable resource for researchers in the field.
+
+
+2. Paper#2: [**"Introduction to Building a Linear Regression Model"** by Leslie A. Christensen] offers a detailed guide on constructing linear regression models using statistical methods(particularly in SAS software, which you don't really need). The paper explores some model evaluation metrics, and few statistical tests and assumptions. Although this reading isn't really necessary, but for some refreshment, you can check it out and also skip the SAS systems part.
+
 
 ## Contributions
 
