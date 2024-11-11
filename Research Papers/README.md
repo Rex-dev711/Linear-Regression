@@ -21,7 +21,7 @@ Welcome to the Research Papers folder! This is the folder where all the amazing 
 * Mathematical Foundations: Deep dive into the algebra and calculus behind the models.
 * Real-World Applications: Case studies and scenarios where these models are applied.
 
-## How to Use This Folder
+## How to Use It
 
 Whether you're a data scientist, statistician, or researcher, this collection can help you:
 
